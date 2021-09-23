@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moni\\Desktop\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+      "projectUniqueName": "C:\\Users\\Moni\\Documents\\MISION TIC 2021\\Dllo Software\\MisionTIC\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
       "projectName": "ProyectoCiclo3.App.Frontend",
-      "projectPath": "C:\\Users\\Moni\\Desktop\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+      "projectPath": "C:\\Users\\Moni\\Documents\\MISION TIC 2021\\Dllo Software\\MisionTIC\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
       "packagesPath": "C:\\Users\\Moni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moni\\Desktop\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\obj\\",
+      "outputPath": "C:\\Users\\Moni\\Documents\\MISION TIC 2021\\Dllo Software\\MisionTIC\\ProyectoCiclo3.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moni\\AppData\\Roaming\\NuGet\\NuGet.Config"
