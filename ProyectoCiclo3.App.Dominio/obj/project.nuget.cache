@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vgr8Lf1GGCPs2JA4u3y5rfnIzSghsvdxS+jys9Uffn9uye0DR6w5ZVkO8pgEYlO00g+E0eVBUgQkSJ5ZX9HqRg==",
+  "dgSpecHash": "4snQoa2sVU4p2+u9b1fjqZwzAJYeJ7wpr7ujalbu+DKavc36mI4V551o1bPNzyYtyMxqpce/4xQ4igWXM/rHFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Moni\\Desktop\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Moni\\Documents\\MISION TIC 2021\\Dllo Software\\MisionTIC\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Moni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
