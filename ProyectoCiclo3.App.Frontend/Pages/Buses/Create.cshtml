@@ -1,9 +1,10 @@
 @page
+@model ProyectoCiclo3.App.Frontend.Pages.FormBusModel
 @{
 }
  
 <div class="text-center">
-<form action="">
+<form method="post">
   <label for="id" class="form-label">id:</label>
   <input type="number" class="form-control" id="id" name="id" placeholder="ID">
   <label for="marca" class="form-label">Marca:</label>
@@ -15,7 +16,7 @@
   <label for="numero_asientos" class="form-label">Número de asientos:</label>
   <input type="number" class="form-control" id="numero_asientos" name="numero_asientos" placeholder="Número de asientos">
   <label for="placa" class="form-label">Placa:</label>
-  <input type="text" class="form-control" id="Placa" name="placa" placeholder="Placa">
+  <input type="text" class="form-control" id="placa" name="placa" placeholder="Placa">
   <hr>
   <button type="submit" class="btn btn-success">Enviar</button>
 </form>
