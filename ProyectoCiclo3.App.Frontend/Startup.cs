@@ -43,6 +43,7 @@ namespace ProyectoCiclo3.App.Frontend
             }
 
             app.UseHttpsRedirection();
+            
             app.UseStaticFiles();
 
             app.UseRouting();
