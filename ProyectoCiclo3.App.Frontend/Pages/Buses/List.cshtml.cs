@@ -11,6 +11,8 @@ namespace ProyectoCiclo3.App.Frontend.Pages{
 
     public class ListBusModel : PageModel{
         private readonly RepositorioBuses repositorioBuses;
+        [BindProperty]
+        public Buses Bus {get;set;}
         public IEnumerable<Buses> Buses {get;set;}
  
     public ListBusModel(RepositorioBuses repositorioBuses){
@@ -20,6 +22,16 @@ namespace ProyectoCiclo3.App.Frontend.Pages{
     public void OnGet(){
         Buses=repositorioBuses.GetAll();
     }
+
+    public IActionResult OnPost()
+    {
+        if(Bus.id>0)
+        {
+        Bus = repositorioBuses.Delete(Bus.id);
+        }
+        return RedirectToPage("./List");
+    }
+
     
     }
 }
